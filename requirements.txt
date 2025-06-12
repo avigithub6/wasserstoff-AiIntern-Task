@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn==0.27.1
+python-multipart
+pytesseract
+faiss-cpu
+python-dotenv
+openai
+langchain
+langchain-openai
+numpy
+pandas
+Pillow
+pypdf
+python-magic
+tiktoken
